@@ -84,7 +84,4 @@ Suggestions are always welcome 🙌
 
 ⭐ If you like this project, don’t forget to star the repo to support my work!
 
-👉 Vikas, I can also make a short professional tagline at the top like:
-"A clean, fast, and responsive book search app made with React & Tailwind to showcase modern frontend skills."
 
-Do you want me to add a “Why I built this project” section to highlight your motivation (good for recruiters)?
